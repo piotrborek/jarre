@@ -14,4 +14,4 @@ Jarre is a program to help to learn play piano.
 
 # Screenshots
 
-![](images/jarre-screenshot-1.jpg)
+![](images/jarre-screenshot-1.png)
